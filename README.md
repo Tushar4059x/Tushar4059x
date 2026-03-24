@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar4059x&label=Profile%20views&color=0e75b6&style=flat" alt="tushar4059x" /> </p>
 
-- 🔭 I’m currently working on **YouTube-clone**
+- 🔭 I’m currently working on **Scalable AI Agents**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Langchain**
 
 - 📫 How to reach me **gulyanitushar@gmail.com**
 
